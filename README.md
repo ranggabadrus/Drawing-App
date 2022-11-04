@@ -36,4 +36,4 @@
 
 ![Drawing App – build gradle (_app) 2022-11-04 08-31-59 (2)](https://user-images.githubusercontent.com/46615811/199867336-a109ad3a-2b88-4786-bbda-7c847742c837.gif)
 
-*Disclaimer, this app is not purely createad by mw own. I just learn and follow Udemy course. 
+*Disclaimer, this app is not purely createad by mw own. I learn and follow Udemy course. 
